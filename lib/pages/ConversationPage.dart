@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:Nuntius/widgets/ChatAppBar.dart';
-import 'package:Nuntius/widgets/ChatListWidget.dart';
-import 'package:Nuntius/widgets/InputWidget.dart';
-
+import 'package:nuntius/widgets/ChatAppBar.dart';
+import 'package:nuntius/widgets/ChatListWidget.dart';
+import 'package:nuntius/widgets/InputWidget.dart';
+//
 class ConversationPage extends StatefuWidget {
     @override
     _ConversationPageState createState() => _ConverstaionPageState();
